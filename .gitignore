@@ -38,3 +38,6 @@ jspm_packages
 
 # VsCode
 .vscode
+
+# Distributio build folder
+dist
